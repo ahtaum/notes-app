@@ -1,16 +1,25 @@
-# notes
+## Install
+clone repository :
 
-A new Flutter project.
+    git clone https://github.com/ahtaum/notes-app.git
 
-## Getting Started
+install depedency in root folder :
 
-This project is a starting point for a Flutter application.
+    flutter pub get
 
-A few resources to get you started if this is your first Flutter project:
+## Config Firebase Firestore
+rename file **env** setting in **assets** folder to **.env**
+rename :
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+    env setting
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+to
+
+    .env
+
+setup your own **firebase firestore.**
+
+## Run
+running in console or terminal by type :
+
+    flutter run
