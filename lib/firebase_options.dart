@@ -43,46 +43,6 @@ class DefaultFirebaseOptions {
     }
   }
 
-  // static const FirebaseOptions web = FirebaseOptions(
-  //   apiKey: 'AIzaSyDKr9IrHjaa_4HtYIXIpC0AaE8EcIFV2z4',
-  //   appId: '1:711162688751:web:7c278ad4127db6f17e971a',
-  //   messagingSenderId: '711162688751',
-  //   projectId: 'dummy-data-b127f',
-  //   authDomain: 'dummy-data-b127f.firebaseapp.com',
-  //   databaseURL: 'https://dummy-data-b127f-default-rtdb.asia-southeast1.firebasedatabase.app',
-  //   storageBucket: 'dummy-data-b127f.appspot.com',
-  //   measurementId: 'G-2WFBXGBRWB',
-  // );
-
-  // static const FirebaseOptions android = FirebaseOptions(
-  //   apiKey: 'AIzaSyAvON3alTb_X716JG8VEbi-k9j-vJpnTCA',
-  //   appId: '1:711162688751:android:4b9549ee3624eeae7e971a',
-  //   messagingSenderId: '711162688751',
-  //   projectId: 'dummy-data-b127f',
-  //   databaseURL: 'https://dummy-data-b127f-default-rtdb.asia-southeast1.firebasedatabase.app',
-  //   storageBucket: 'dummy-data-b127f.appspot.com',
-  // );
-
-  // static const FirebaseOptions ios = FirebaseOptions(
-  //   apiKey: 'AIzaSyB7zQ82YwxkNWXohnTbi7BbgsIIStME76M',
-  //   appId: '1:711162688751:ios:5c24a9f2b519eacd7e971a',
-  //   messagingSenderId: '711162688751',
-  //   projectId: 'dummy-data-b127f',
-  //   databaseURL: 'https://dummy-data-b127f-default-rtdb.asia-southeast1.firebasedatabase.app',
-  //   storageBucket: 'dummy-data-b127f.appspot.com',
-  //   iosBundleId: 'com.example.notes',
-  // );
-
-  // static const FirebaseOptions macos = FirebaseOptions(
-  //   apiKey: 'AIzaSyB7zQ82YwxkNWXohnTbi7BbgsIIStME76M',
-  //   appId: '1:711162688751:ios:5bbac5ddfd75161e7e971a',
-  //   messagingSenderId: '711162688751',
-  //   projectId: 'dummy-data-b127f',
-  //   databaseURL: 'https://dummy-data-b127f-default-rtdb.asia-southeast1.firebasedatabase.app',
-  //   storageBucket: 'dummy-data-b127f.appspot.com',
-  //   iosBundleId: 'com.example.notes.RunnerTests',
-  // );
-
    static const FirebaseOptions web = FirebaseOptions(
     apiKey: 'FIREBASE_WEB_API_KEY',
     appId: 'FIREBASE_WEB_APP_ID',
